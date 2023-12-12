@@ -30,4 +30,4 @@ Meet the brilliant minds behind NineBit on our [LinkedIn Page](https://in.linked
 This project is licensed under the Apache License - see the LICENSE.md file for details.
 
 ### Contact
-For inquiries and collaborations, please contact us at [support@ninebit.in].
+For inquiries and collaborations, please contact us at support@ninebit.in
